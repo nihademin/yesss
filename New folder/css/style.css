@@ -1,0 +1,72 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+#one{
+    background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3) ),url(https://mobirise.com/extensions/educationm4/assets/images/background1.jpg);
+    
+    padding: 400px;
+}
+.ones{
+    color: white;
+}
+.lorem{
+    font-size: 18px;
+}
+.know{
+    font-size: 60px;
+}
+
+#words{
+    padding: 150px;
+}
+.lore{
+    opacity: 0.7;
+}
+.hr{
+    height: 4px;
+    background: black;
+    width: 80px;
+}
+.learn{
+    padding: 10px 30px;
+    color: black;
+    border-color: black;
+    background: none;
+    transition: all .3s ;
+}
+.learn:hover{
+    color: white;
+    background: rgb(11, 12, 51);
+}
+.fonleft{
+    background-color: #0a1c44;
+}
+.hr1{
+    height: 4px;
+    background:white;
+    width: 80px;
+}
+.yazi{
+    color: white;
+}
+.yazi1{
+    font-size: 15px;
+    color: white;
+}
+.son{
+    width: 70%;
+    margin: auto;
+    margin-top: 200px;
+}
+.balaca{
+    background-color: white;
+    margin-top: 50px;
+}
+.icon{
+    padding-top: 140px;
+}
+h4{
+    color: #0087ab;
+}
+
